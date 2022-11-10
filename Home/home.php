@@ -9,10 +9,11 @@
     <link rel="stylesheet" href="home.css">
   </head>
   <body>
-    <main>
+    <main class="main1">
         <h1>SENAC COURT</h1>
-        <h3>Feito por: Giovana Rossi, Júlia Borges e Gabriel Bartzen</h3>
-        <a href="" class="btn btn-secondary " tabindex="-1" role="button" aria-disabled="true">Link</a>
+        <h6>Feito por: Giovana Rossi, Júlia Borges e Gabriel Bartzen</h3>
+
+        <a  href="opcoes.php" class="btn btn-secondary btn-lg" tabindex="-1" role="button" aria-disabled="true">Start</a>
     </main>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
   </body>
