@@ -1,10 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
 .historia2card{
     height: 100%;
     width: 70%;
     background-color: rgb(10, 0, 69);
     color: white;
     margin-left: 180px;
-    margin-top: 100px;
+    margin-top: 150px;
     border-radius: 5px;
 }
 .card-header2{
@@ -17,8 +22,14 @@
     display: block;
     width: 45%;
 }
+.card-header2 img{
+    height: 10%;
+    width: 10%;
+    float: left;
+}
 .card-header2 h2{
    text-align: center;
+   margin-right: 53px;
 }
 .historia2card p{
     text-align: justify;
