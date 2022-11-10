@@ -11,7 +11,7 @@
 <body>
 <div class="historia2card">
     <div class="card-header2"> 
-        <a href="#" class="btn"><img src="https://cdn-icons-png.flaticon.com/512/93/93634.png"></a>
+        <a href="#" class="btn22"><img src="https://cdn-icons-png.flaticon.com/512/93/93634.png"></a>
         <h2>Sobre o caso:</h2>
   </div>
   <div class="card-body2">

@@ -1,11 +1,5 @@
-.card-header2{
-    height: 10%;
-    width: 100%;
-    background-color: rgb(55, 37, 164);
-    border-radius: 5px;
-}
 .historia2card{
-    height: 90%;
+    height: 100%;
     width: 70%;
     background-color: rgb(10, 0, 69);
     color: white;
@@ -13,19 +7,32 @@
     margin-top: 100px;
     border-radius: 5px;
 }
-.card-header2 img{
+.card-header2{
     height: 10%;
-    width: 10%;
-    float: left;
+    width: 100%;
+    background-color: rgb(55, 37, 164);
+    border-radius: 5px;
+}
+.btn22{
+    display: block;
+    width: 45%;
 }
 .card-header2 h2{
    text-align: center;
+}
+.historia2card p{
+    text-align: justify;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.historia2card h5{
+    text-align: center;
 }
 .btn2{
     background-color: rgb(20, 0, 255);
     border-radius: 3px;
     border: 2px solid rgb(0, 255, 255);
-    margin-left: 300px;
+    margin-left: 45%;
 }
 .btn2:hover{
     text-decoration: none;
