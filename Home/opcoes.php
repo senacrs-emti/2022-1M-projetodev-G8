@@ -17,7 +17,7 @@
     <h5 class="text-start">TÍTULO</h1>
     <a class="btn btn-primary" href="#" role="button">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae cupiditate rem ad fugiat assumenda doloremque, quos nemo corporis dignissimos corrupti aliquid laborum, numquam inventore dolore repudiandae! Minima quos nulla unde.</a>
     <h5 class="text-start">TÍTULO</h1>
-    <a class="btn btn-primary" href="#" role="button">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla atque ducimus enim excepturi, velit neque voluptates voluptas cupiditate, soluta sed accusantium nam. Hic magnam illo iure voluptatibus quam necessitatibus animi.</a>
+    <a class="btn btn-primary" href="" role="button">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla atque ducimus enim excepturi, velit neque voluptates voluptas cupiditate, soluta sed accusantium nam. Hic magnam illo iure voluptatibus quam necessitatibus animi.</a>
   </div>
 </div>
 </body>
