@@ -24,6 +24,7 @@
     background-color: rgb(55, 37, 164);
     border-radius: 5px;
     text-align: center;
+    padding-top: 8px;
 }
 .card-body02 img{
     height: 5%;
@@ -35,7 +36,7 @@
     color: white;
 }
 .card-text02{
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 76px;
 }
