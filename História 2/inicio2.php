@@ -11,7 +11,7 @@
 <body>
 <div class="historia2card">
     <div class="card-header2"> 
-        <a href="#" class="btn22"><img src="https://cdn-icons-png.flaticon.com/512/93/93634.png"></a>
+        <a href="home.php" class="btn22"><img src="https://cdn-icons-png.flaticon.com/512/93/93634.png"></a>
         <h2>Sobre o caso:</h2>
   </div>
   <div class="card-body2">
@@ -19,7 +19,7 @@
     <p class="card-text2">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda quis nostrum aliquid nihil velit molestias quasi quod atque culpa, dolore doloremque fugiat sint repellendus veniam fugit non aperiam quidem quas.
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, excepturi eum sunt, nam molestiae perferendis quibusdam dolorem sint labore dignissimos pariatur error veritatis facere sequi inventore soluta? Dolores, perferendis sed.
     </p>
-    <a href="#" class="btn2 btn-lg">OK</a>
+    <a href="comeco2.php" class="btn2 btn-lg">OK</a>
   </div><b></b>
 </div>
 </body>
