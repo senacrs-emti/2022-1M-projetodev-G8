@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
     <title>História 1</title>
 </head>
-<body>
+<body class="body-1">
 <div class="historia2card">
     <div class="card-header2"> 
         <a href="home.php" class="btn22"><img src="https://cdn-icons-png.flaticon.com/512/93/93634.png"></a>

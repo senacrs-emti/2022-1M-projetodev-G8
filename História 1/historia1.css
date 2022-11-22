@@ -3,6 +3,9 @@
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
+.body-1{
+    background-color: rgb(73, 45, 45);
+}
 .historia2card{
     height: 100%;
     width: 70%;
@@ -29,7 +32,7 @@
 }
 .card-header2 h2{
    text-align: center;
-   margin-right: 53px;
+   margin-right: 8%;
 }
 .historia2card p{
     text-align: justify;
