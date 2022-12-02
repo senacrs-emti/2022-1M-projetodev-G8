@@ -14,22 +14,22 @@
     margin-top: 13%;
 }
 .card-body h1{
-    margin-bottom: -19%;
+    margin-bottom: -16%;
     color: white;
     background-color: rgb(24, 21, 125);
     margin-left: 20%;
     margin-right: 20%;
-    height: 314px;
+    height: 280px;
 }
 h3.card-title{
     margin-left: 21%;
     margin-right: 21%;
     color: white;
 }
-.btn{
+.btn {
     margin-left:4%;
     margin-right: 4%;
-    margin-top: 1%;
+    margin-top: 3%;
 }
 .text-center{
     margin: 3%;
